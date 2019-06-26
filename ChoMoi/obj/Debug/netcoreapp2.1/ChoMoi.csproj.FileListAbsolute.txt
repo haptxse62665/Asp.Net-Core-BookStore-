@@ -1,0 +1,108 @@
+D:\.Net Core\SampleDemo\new-market-master\ChoMoiAPI\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.Localization.ErrorResource.resources
+D:\.Net Core\SampleDemo\new-market-master\ChoMoiAPI\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.Localization.Resource.resources
+D:\.Net Core\SampleDemo\new-market-master\ChoMoiAPI\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.csproj.GenerateResource.cache
+D:\.Net Core\SampleDemo\new-market-master\ChoMoiAPI\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.csproj.CoreCompileInputs.cache
+D:\.Net Core\SampleDemo\new-market-master\ChoMoiAPI\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.RazorAssemblyInfo.cache
+D:\.Net Core\SampleDemo\new-market-master\ChoMoiAPI\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.RazorAssemblyInfo.cs
+D:\.Net Core\SampleDemo\new-market-master\ChoMoiAPI\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.AssemblyInfoInputs.cache
+D:\.Net Core\SampleDemo\new-market-master\ChoMoiAPI\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.AssemblyInfo.cs
+D:\.Net Core\SampleDemo\new-market-master\ChoMoiAPI\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.deps.json
+D:\.Net Core\SampleDemo\new-market-master\ChoMoiAPI\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.runtimeconfig.json
+D:\.Net Core\SampleDemo\new-market-master\ChoMoiAPI\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.runtimeconfig.dev.json
+D:\.Net Core\SampleDemo\new-market-master\ChoMoiAPI\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.dll
+D:\.Net Core\SampleDemo\new-market-master\ChoMoiAPI\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.pdb
+D:\.Net Core\SampleDemo\new-market-master\ChoMoiAPI\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.xml
+D:\.Net Core\SampleDemo\new-market-master\ChoMoiAPI\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.RazorTargetAssemblyInfo.cache
+D:\.Net Core\SampleDemo\new-market-master\ChoMoiAPI\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.dll
+D:\.Net Core\SampleDemo\new-market-master\ChoMoiAPI\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.pdb
+D:\.Net Core\SampleDemo\new-market-master\ChoMoiAPI\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.csprojAssemblyReference.cache
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_21_6\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.deps.json
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_21_6\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.runtimeconfig.json
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_21_6\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.runtimeconfig.dev.json
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_21_6\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.dll
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_21_6\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.pdb
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_21_6\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.xml
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_21_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.csprojAssemblyReference.cache
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_21_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.Localization.ErrorResource.resources
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_21_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.Localization.Resource.resources
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_21_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.csproj.GenerateResource.cache
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_21_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.csproj.CoreCompileInputs.cache
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_21_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.RazorAssemblyInfo.cache
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_21_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.RazorAssemblyInfo.cs
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_21_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.AssemblyInfoInputs.cache
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_21_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.AssemblyInfo.cs
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_21_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.RazorTargetAssemblyInfo.cache
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_21_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.dll
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_21_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.pdb
+D:\.Net Core\Project\ChoMoiAPI_21_6\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.deps.json
+D:\.Net Core\Project\ChoMoiAPI_21_6\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.runtimeconfig.json
+D:\.Net Core\Project\ChoMoiAPI_21_6\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.runtimeconfig.dev.json
+D:\.Net Core\Project\ChoMoiAPI_21_6\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.dll
+D:\.Net Core\Project\ChoMoiAPI_21_6\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.pdb
+D:\.Net Core\Project\ChoMoiAPI_21_6\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.xml
+D:\.Net Core\Project\ChoMoiAPI_21_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.csprojAssemblyReference.cache
+D:\.Net Core\Project\ChoMoiAPI_21_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.Localization.ErrorResource.resources
+D:\.Net Core\Project\ChoMoiAPI_21_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.Localization.Resource.resources
+D:\.Net Core\Project\ChoMoiAPI_21_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.csproj.GenerateResource.cache
+D:\.Net Core\Project\ChoMoiAPI_21_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.csproj.CoreCompileInputs.cache
+D:\.Net Core\Project\ChoMoiAPI_21_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.RazorAssemblyInfo.cache
+D:\.Net Core\Project\ChoMoiAPI_21_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.RazorAssemblyInfo.cs
+D:\.Net Core\Project\ChoMoiAPI_21_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.AssemblyInfoInputs.cache
+D:\.Net Core\Project\ChoMoiAPI_21_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.AssemblyInfo.cs
+D:\.Net Core\Project\ChoMoiAPI_21_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.RazorTargetAssemblyInfo.cache
+D:\.Net Core\Project\ChoMoiAPI_21_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.dll
+D:\.Net Core\Project\ChoMoiAPI_21_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.pdb
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_24_6\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.deps.json
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_24_6\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.runtimeconfig.json
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_24_6\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.runtimeconfig.dev.json
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_24_6\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.dll
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_24_6\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.pdb
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_24_6\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.xml
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_24_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.csprojAssemblyReference.cache
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_24_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.Localization.ErrorResource.resources
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_24_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.Localization.Resource.resources
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_24_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.csproj.GenerateResource.cache
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_24_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.csproj.CoreCompileInputs.cache
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_24_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.RazorAssemblyInfo.cache
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_24_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.RazorAssemblyInfo.cs
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_24_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.AssemblyInfoInputs.cache
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_24_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.AssemblyInfo.cs
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_24_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.RazorTargetAssemblyInfo.cache
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_24_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.dll
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_24_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.pdb
+D:\.Net Core\Project\ChoMoiAPI_25_6\ChoMoiAPI_24_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.csprojAssemblyReference.cache
+D:\.Net Core\Project\ChoMoiAPI_25_6\ChoMoiAPI_24_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.Localization.ErrorResource.resources
+D:\.Net Core\Project\ChoMoiAPI_25_6\ChoMoiAPI_24_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.Localization.Resource.resources
+D:\.Net Core\Project\ChoMoiAPI_25_6\ChoMoiAPI_24_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.csproj.GenerateResource.cache
+D:\.Net Core\Project\ChoMoiAPI_25_6\ChoMoiAPI_24_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.csproj.CoreCompileInputs.cache
+D:\.Net Core\Project\ChoMoiAPI_25_6\ChoMoiAPI_24_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.RazorAssemblyInfo.cache
+D:\.Net Core\Project\ChoMoiAPI_25_6\ChoMoiAPI_24_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.RazorAssemblyInfo.cs
+D:\.Net Core\Project\ChoMoiAPI_25_6\ChoMoiAPI_24_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.AssemblyInfoInputs.cache
+D:\.Net Core\Project\ChoMoiAPI_25_6\ChoMoiAPI_24_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.AssemblyInfo.cs
+D:\.Net Core\Project\ChoMoiAPI_25_6\ChoMoiAPI_24_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.dll
+D:\.Net Core\Project\ChoMoiAPI_25_6\ChoMoiAPI_24_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.pdb
+D:\.Net Core\Project\ChoMoiAPI_25_6\ChoMoiAPI_24_6\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.deps.json
+D:\.Net Core\Project\ChoMoiAPI_25_6\ChoMoiAPI_24_6\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.runtimeconfig.json
+D:\.Net Core\Project\ChoMoiAPI_25_6\ChoMoiAPI_24_6\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.runtimeconfig.dev.json
+D:\.Net Core\Project\ChoMoiAPI_25_6\ChoMoiAPI_24_6\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.dll
+D:\.Net Core\Project\ChoMoiAPI_25_6\ChoMoiAPI_24_6\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.pdb
+D:\.Net Core\Project\ChoMoiAPI_25_6\ChoMoiAPI_24_6\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.xml
+D:\.Net Core\Project\ChoMoiAPI_25_6\ChoMoiAPI_24_6\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.RazorTargetAssemblyInfo.cache
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_25_6_Toi\ChoMoiAPI_24_6_Toi\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.deps.json
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_25_6_Toi\ChoMoiAPI_24_6_Toi\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.runtimeconfig.json
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_25_6_Toi\ChoMoiAPI_24_6_Toi\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.runtimeconfig.dev.json
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_25_6_Toi\ChoMoiAPI_24_6_Toi\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.dll
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_25_6_Toi\ChoMoiAPI_24_6_Toi\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.pdb
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_25_6_Toi\ChoMoiAPI_24_6_Toi\ChoMoi\bin\Debug\netcoreapp2.1\ChoMoi.xml
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_25_6_Toi\ChoMoiAPI_24_6_Toi\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.csprojAssemblyReference.cache
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_25_6_Toi\ChoMoiAPI_24_6_Toi\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.Localization.ErrorResource.resources
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_25_6_Toi\ChoMoiAPI_24_6_Toi\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.Localization.Resource.resources
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_25_6_Toi\ChoMoiAPI_24_6_Toi\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.csproj.GenerateResource.cache
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_25_6_Toi\ChoMoiAPI_24_6_Toi\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.csproj.CoreCompileInputs.cache
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_25_6_Toi\ChoMoiAPI_24_6_Toi\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.RazorAssemblyInfo.cache
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_25_6_Toi\ChoMoiAPI_24_6_Toi\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.RazorAssemblyInfo.cs
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_25_6_Toi\ChoMoiAPI_24_6_Toi\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.AssemblyInfoInputs.cache
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_25_6_Toi\ChoMoiAPI_24_6_Toi\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.AssemblyInfo.cs
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_25_6_Toi\ChoMoiAPI_24_6_Toi\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.RazorTargetAssemblyInfo.cache
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_25_6_Toi\ChoMoiAPI_24_6_Toi\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.dll
+C:\Users\haptxse62665\Desktop\ASP.NET_core\ChoMoiAPI_25_6_Toi\ChoMoiAPI_24_6_Toi\ChoMoi\obj\Debug\netcoreapp2.1\ChoMoi.pdb
